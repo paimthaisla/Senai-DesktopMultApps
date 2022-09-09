@@ -1,6 +1,6 @@
 ﻿namespace MultApps.Client.Windows
 {
-    partial class Programs
+    partial class Principal
     {
         /// <summary>
         /// Required designer variable.

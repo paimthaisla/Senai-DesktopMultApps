@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace MultApps.Client.Windows
 {
-    public partial class Programs : Form
+    public partial class Principal : Form
     {
-        public Programs()
+        public Principal()
         {
             InitializeComponent();
         }

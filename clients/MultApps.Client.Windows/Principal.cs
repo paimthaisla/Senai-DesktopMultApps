@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MultApps.Client.Windows.Funcionalidades;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,11 @@ namespace MultApps.Client.Windows
         public Principal()
         {
             InitializeComponent();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

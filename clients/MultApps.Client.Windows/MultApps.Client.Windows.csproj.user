@@ -10,7 +10,7 @@
     <Compile Update="Funcionalidades\frmReajusteSalarial.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Programs.cs">
+    <Compile Update="Principal.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

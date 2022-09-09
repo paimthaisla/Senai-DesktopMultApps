@@ -7,9 +7,24 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "clients", "clients", "{0FFB
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "server", "server", "{8CCE29F8-3921-4724-A119-E18BAB22996C}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultApps.Client.Windows", "clients\MultApps.Client.Windows\MultApps.Client.Windows.csproj", "{09EEAF4C-7B75-48FD-86FD-008A2551F2AA}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09EEAF4C-7B75-48FD-86FD-008A2551F2AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09EEAF4C-7B75-48FD-86FD-008A2551F2AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09EEAF4C-7B75-48FD-86FD-008A2551F2AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09EEAF4C-7B75-48FD-86FD-008A2551F2AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{09EEAF4C-7B75-48FD-86FD-008A2551F2AA} = {0FFB7225-5DB2-4208-B062-77B0670B5BBB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FF4E4554-8185-46BE-BEB6-8BDBF818F9EA}

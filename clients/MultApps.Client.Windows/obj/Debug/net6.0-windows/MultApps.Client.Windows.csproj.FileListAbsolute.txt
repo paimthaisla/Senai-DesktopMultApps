@@ -1,0 +1,11 @@
+C:\thaísla-workspace\repos\Senai-DesktopMultApps\clients\MultApps.Client.Windows\obj\Debug\net6.0-windows\MultApps.Client.Windows.csproj.AssemblyReference.cache
+C:\thaísla-workspace\repos\Senai-DesktopMultApps\clients\MultApps.Client.Windows\obj\Debug\net6.0-windows\MultApps.Client.Windows.Funcionalidades.frmMatriculaAluno.resources
+C:\thaísla-workspace\repos\Senai-DesktopMultApps\clients\MultApps.Client.Windows\obj\Debug\net6.0-windows\MultApps.Client.Windows.Funcionalidades.frmPesoIdeal.resources
+C:\thaísla-workspace\repos\Senai-DesktopMultApps\clients\MultApps.Client.Windows\obj\Debug\net6.0-windows\MultApps.Client.Windows.Funcionalidades.frmReajusteSalarial.resources
+C:\thaísla-workspace\repos\Senai-DesktopMultApps\clients\MultApps.Client.Windows\obj\Debug\net6.0-windows\MultApps.Client.Windows.Principal.resources
+C:\thaísla-workspace\repos\Senai-DesktopMultApps\clients\MultApps.Client.Windows\obj\Debug\net6.0-windows\MultApps.Client.Windows.Properties.Resources.resources
+C:\thaísla-workspace\repos\Senai-DesktopMultApps\clients\MultApps.Client.Windows\obj\Debug\net6.0-windows\MultApps.Client.Windows.csproj.GenerateResource.cache
+C:\thaísla-workspace\repos\Senai-DesktopMultApps\clients\MultApps.Client.Windows\obj\Debug\net6.0-windows\MultApps.Client.Windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\thaísla-workspace\repos\Senai-DesktopMultApps\clients\MultApps.Client.Windows\obj\Debug\net6.0-windows\MultApps.Client.Windows.AssemblyInfoInputs.cache
+C:\thaísla-workspace\repos\Senai-DesktopMultApps\clients\MultApps.Client.Windows\obj\Debug\net6.0-windows\MultApps.Client.Windows.AssemblyInfo.cs
+C:\thaísla-workspace\repos\Senai-DesktopMultApps\clients\MultApps.Client.Windows\obj\Debug\net6.0-windows\MultApps.Client.Windows.csproj.CoreCompileInputs.cache

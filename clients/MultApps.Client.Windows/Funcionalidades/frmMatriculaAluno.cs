@@ -16,5 +16,10 @@ namespace MultApps.Client.Windows.Funcionalidades
         {
             InitializeComponent();
         }
+
+        private void frmMatriculaAluno_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
